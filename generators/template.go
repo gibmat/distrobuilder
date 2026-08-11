@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/flosch/pongo2/v4"
+	"github.com/flosch/pongo2/v6"
 	"github.com/lxc/incus/v7/shared/api"
 
 	"github.com/lxc/distrobuilder/v3/image"

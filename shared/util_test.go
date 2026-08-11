@@ -7,7 +7,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/flosch/pongo2/v4"
+	"github.com/flosch/pongo2/v6"
 	"github.com/stretchr/testify/require"
 )
 
