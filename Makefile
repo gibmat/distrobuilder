@@ -14,6 +14,7 @@ default:
 .PHONY: update-gomod
 update-gomod:
 	go get -t -v -u ./...
+	go get github.com/sigstore/fulcio@v1.8.5
 	go mod tidy --go=1.25.12
 	go get toolchain@none
 	@echo "Dependencies updated"
