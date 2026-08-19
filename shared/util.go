@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/flosch/pongo2/v4"
+	"github.com/flosch/pongo2/v6"
 	"golang.org/x/sys/unix"
 	yaml "gopkg.in/yaml.v2"
 )

@@ -12,7 +12,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/flosch/pongo2/v4"
+	"github.com/flosch/pongo2/v6"
 	incus "github.com/lxc/incus/v7/shared/util"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
